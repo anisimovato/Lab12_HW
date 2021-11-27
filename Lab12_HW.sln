@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab12_HW", "Lab12_HW\Lab12_HW.csproj", "{9ED87D7A-1EBE-438F-8D19-5C1C1FC50A3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lsb12static", "..\Lsb12static\Lsb12static.csproj", "{9B430DAD-6805-4747-964F-BBFFA3D9BF29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ED87D7A-1EBE-438F-8D19-5C1C1FC50A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED87D7A-1EBE-438F-8D19-5C1C1FC50A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED87D7A-1EBE-438F-8D19-5C1C1FC50A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED87D7A-1EBE-438F-8D19-5C1C1FC50A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B430DAD-6805-4747-964F-BBFFA3D9BF29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B430DAD-6805-4747-964F-BBFFA3D9BF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B430DAD-6805-4747-964F-BBFFA3D9BF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B430DAD-6805-4747-964F-BBFFA3D9BF29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBAE48BA-5738-4EE1-B243-8E061B33167C}
+	EndGlobalSection
+EndGlobal
