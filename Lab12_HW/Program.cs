@@ -17,7 +17,7 @@ namespace Lab12_HW
             circle.Lies();
 
             Console.ReadKey();
-            //Math.PI;
+            
         }
 
         class Сircle //static class Сircle
